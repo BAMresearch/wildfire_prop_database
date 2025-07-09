@@ -11,4 +11,4 @@ The workflow is illustrated in this example:
 
 ![Workflow of extracting the burned area](./imgs_readme/workflow_image_to_polygon.png)
 
-Te code folder contains a Jupyter notebook with a working example, the necessary images, as well as the utility functions used for the process.
+The code folder contains a Jupyter notebook with a working example, the necessary images, as well as the utility functions used for the process.
