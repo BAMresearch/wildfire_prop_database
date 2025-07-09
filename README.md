@@ -6,7 +6,7 @@ The first step often includes merging Planet Labs Inc. images from different Dov
 
 ![Workflow of merging process](./imgs_readme/workflow_merge.png)
 
-Afterwards, thresholds on the NIR (or other) band are used to create an binary image with coherent clusters, from which the burned area is extracted and transformed into a GIS-readable polygon. 
+Afterwards, thresholds on the NIR (or other) band are used to create a binary image with coherent clusters, from which the burned area is extracted and transformed into a GIS-readable polygon. 
 The workflow is illustrated in this example:
 
 ![Workflow of extracting the burned area](./imgs_readme/workflow_image_to_polygon.png)
