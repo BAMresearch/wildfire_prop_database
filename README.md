@@ -1,6 +1,6 @@
 # Wildfire Propagation Database
 
-## overview
+## Overview
 This repository includes the code for pre-processing Dove-C satellite data and extracting GIS-readable burned area geometries semi-automatically. 
 The pre-processing steps include
 - Merging multiple Dove-C images from adjacent swath paths into a single image
